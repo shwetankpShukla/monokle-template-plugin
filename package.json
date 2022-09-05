@@ -2,14 +2,14 @@
     "name": "Template plugins",
     "description": "Custom Template plugins",
     "version": "1.0.0",
-    "author": "shwetankpshukla",
-    "repository": "https://github.com/shwetankpShukla/monokle-template-plugin.git",
+    "author": "Shwetank Shukla",
+    "repository": "https://github.com/shwetankpShukla/monokle-template-plugin",
     "monoklePlugin": {
-        "modules" : [
-            {
-                "type" : "template",
-                "path" :  "basic-pod-template"
-            }
-        ]
-    }
+		"id": "com.github.shwetankpshukla.plugin.templates",
+		"helpUrl": "https://github.com/shwetankpShukla/monokle-template-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
 }
