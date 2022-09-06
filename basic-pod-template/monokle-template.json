@@ -1,6 +1,6 @@
 {
     "name": "Basic Kubernetes Pod",
-    "id": "com.github.shwetankp-shukla.plugin.templates.basic-pod-template",
+    "id": "com.github.shwetank.plugin.templates.basic-pod-template",
     "author": "Shwetank Shukla",
     "version": "1.0.0",
     "description": "Creates a Pod for a specified Image",
@@ -20,5 +20,5 @@
       }
     ],
     "resultMessage": "Pod resource created successfully!",
-    "helpUrl": "https://github.com/shwetankpShukla/monokle-template-plugin.git"
+    "helpUrl": "https://github.com/shwetankpShukla/monokle-template-plugin"
 }
